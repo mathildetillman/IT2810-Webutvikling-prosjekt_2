@@ -1,0 +1,6 @@
+{
+  "short_name": "Art",
+  "name": "Art Exhibition",
+  "start_url": ".",
+  "display": "standalone"
+}
